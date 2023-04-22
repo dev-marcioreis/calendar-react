@@ -1,4 +1,4 @@
-### Calendar (ReactJS)
+### Calendar
 
 ---
 
