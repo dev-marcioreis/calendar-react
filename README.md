@@ -6,7 +6,7 @@ Este projeto será um calendário para agendar compromissos.
 
 ## 🚀 Começando...
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React + Vite
 
 ## ✒️ Autor
