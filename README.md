@@ -2,7 +2,8 @@
 
 ---
 
-Este projeto será um calendário para agendar compromissos.
+Este projeto será um calendário para agendar compromissos.<br>
+Por falta de tempo, este projeto está parado.
 
 ## 🚀 Em desenvolvimento...
 
