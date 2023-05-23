@@ -2,12 +2,12 @@
 
 ---
 
-Este projeto será um calendário para agendar compromissos.<br>
+Este projeto será um calendário.<br>
 
 ## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
-React + Vite + Tailwind + Tailwindcss forms + Craco + Dayjs 
+React + Vite + Tailwind
 
 ## ✒️ Autor
 Márcio Reis
