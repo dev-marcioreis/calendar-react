@@ -1,13 +1,14 @@
-import React from 'react'
+import React, { useState, useContext, useEffect } from 'react'
 import './App.css'
 import { getMonth } from './util'
 import CalendarHeader from './components/CalendarHeader'
 import Sidebar from './components/Sidebar'
 import Month from './components/Month'
 
+
 function App() {
 
-  console.table(getMonth(3))
+ const [currentMonth, setCurrentMonth] = useState(getMonth())
 
   return (
     <React.Fragment>
@@ -15,7 +16,7 @@ function App() {
         <CalendarHeader />
         <div className="flex flex-1">
           <Sidebar />
-          <Month />
+          <Month Month={currentMonth} />
         </div>
       </div>
     </React.Fragment>
